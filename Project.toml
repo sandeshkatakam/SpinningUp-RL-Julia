@@ -1,0 +1,13 @@
+name = "SpinningUp-RL-Julia"
+uuid = "0c239925-f214-4964-bd77-8dbe9fb6a583"
+authors = ["Sandesh Katakam"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
